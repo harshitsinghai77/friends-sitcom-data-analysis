@@ -1,11 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 BASE_URL = 'https://fangj.github.io/friends/'
 
 
-def get_html_file(url):
+    def get_html_file(url):
     content = requests.get(BASE_URL+url).text
     soup = BeautifulSoup(content, "lxml")
     return soup.text
