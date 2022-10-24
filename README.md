@@ -5,7 +5,7 @@ The text files used in this projects contain scripts from the T.V. show F.R.I.E.
 Exported text files into a SQLite database using Python. Then provide some interesting findings about the characters we know so well, some expected and some surprising! It has been a really enjoyable hobby project and one I have been wanting to do for a while.
 
 # Medium article with explanation
-https://medium.com/@harshitsinghai77/data-analysis-using-python-f-r-i-e-n-d-s-4fb3ac51717
+https://fictionally-irrelevant.vercel.app/posts/friends-data-analysis-using-python
 
 # Introduction
 Providing an alternative look to the most looked sitcom.
